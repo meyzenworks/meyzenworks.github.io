@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.meyzenworks.pipes",
+        "sha256_cert_fingerprints": ["20:EB:2F:14:20:21:E3:0B:11:42:19:FD:73:EE:1E:62:D4:66:11:B0:F6:46:1C:50:36:C5:8B:CE:CC:3E:9B:81"]
+      }
+    }]
