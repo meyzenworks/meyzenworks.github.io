@@ -5,4 +5,12 @@
         "package_name": "com.meyzenworks.pipes",
         "sha256_cert_fingerprints": ["20:EB:2F:14:20:21:E3:0B:11:42:19:FD:73:EE:1E:62:D4:66:11:B0:F6:46:1C:50:36:C5:8B:CE:CC:3E:9B:81"]
       }
+    }
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.meyzenworks.freecell",
+        "sha256_cert_fingerprints": ["B5:39:A7:E1:DE:E8:0F:F8:E1:5F:43:52:33:49:45:4B:93:83:AB:A3:D8:D6:E9:6B:79:24:5C:3C:2E:3C:10:26"]
+      }
     }]
