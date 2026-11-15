@@ -13,4 +13,12 @@
         "package_name": "com.meyzenworks.freecell",
         "sha256_cert_fingerprints": ["B5:39:A7:E1:DE:E8:0F:F8:E1:5F:43:52:33:49:45:4B:93:83:AB:A3:D8:D6:E9:6B:79:24:5C:3C:2E:3C:10:26"]
       }
+    }
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.meyzenworks.backgammon",
+        "sha256_cert_fingerprints": ["8F:2F:FF:DE:32:75:A3:A9:B1:F4:31:4C:DF:B0:AF:FA:7B:ED:0D:F3:9C:34:BF:98:53:18:50:A8:77:58:DA:9A"]
+      }
     }]
